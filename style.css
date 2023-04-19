@@ -1,0 +1,49 @@
+header{
+    background-color: #93BFCF;
+    color: #EEE9DA;
+    padding: 50px;
+    text-align: center;
+    font-size: 70px;
+    position: sticky;
+    margin: 0px;
+    border: 0px;
+}
+footer{
+    background-color: #93BFCF;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: sticky;
+}
+main{
+    padding: 80px;
+    text-align: center;
+    color: #EEE9DA;
+    font-size: 35px;
+}
+html{
+    background-color: #6096B4;
+}
+ul{
+    background-color: #93BFCF;
+    color: white;
+    margin: 0px;
+    padding: 0.001px;
+    border: 0px;
+    list-style: none;
+    text-align: center;
+    font-size: 25px;
+}
+ul li{
+    display: inline;
+    padding: 2px;
+}
+li{
+    text-align: -webkit-match-parent;
+    list-style: none;
+    margin-right: 15px;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
